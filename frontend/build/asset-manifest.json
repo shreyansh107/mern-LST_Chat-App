@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3612631.css",
+    "main.js": "/static/js/main.01b9ccb7.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers.jpg": "/static/media/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers.b1aa12c8a4b4f60207b7.jpg",
+    "index.html": "/index.html",
+    "main.e3612631.css.map": "/static/css/main.e3612631.css.map",
+    "main.01b9ccb7.js.map": "/static/js/main.01b9ccb7.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3612631.css",
+    "static/js/main.01b9ccb7.js"
+  ]
+}
